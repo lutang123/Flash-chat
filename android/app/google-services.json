@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "748870722439",
+    "firebase_url": "https://flash-chat-d3397.firebaseio.com",
+    "project_id": "flash-chat-d3397",
+    "storage_bucket": "flash-chat-d3397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748870722439:android:bc85d19abfeb5d7ac2e922",
+        "android_client_info": {
+          "package_name": "co.lutang.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748870722439-qeil38ck19btmr8h2mahpaj30j1gh8hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs81J3hXzryLV8ACyH2Zh1DuCEcVk-P3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748870722439-qeil38ck19btmr8h2mahpaj30j1gh8hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
